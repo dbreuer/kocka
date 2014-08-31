@@ -1,4 +1,4 @@
-Kocka Game 0.9.3 (Beta)
+Kocka Game 0.9.5 (Beta)
 =======
 
 Full responsive game with mobile views
@@ -16,8 +16,10 @@ Thanks for supporting our website and enjoy!
 
 ## Changelog:
 
-28/06/2013 beta 0.9.3
-31/08/2014 beta 0.9.5
+###28/06/2013 beta 0.9.3
+
+###31/08/2014 beta 0.9.5
++Hero mode
 
 
 ## Links:
