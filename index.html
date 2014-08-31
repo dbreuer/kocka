@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:fb="http://ogp.me/ns/fb#">
+  <head>
+    <title>Kocka Game</title>
+    <meta charset="utf-8">
+    <meta name="keywords" content="responsive, html5, game, development, flat, design" />
+    <meta name="description" content="Full responsive game, multiplatform and cross browser support, Enjoy the game anywhere..." />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:title" content="Kocka Game - David Breuer"/>
+    <meta property="og:image" content="http://davidbreuer.hu/images/logo.png"/>
+    <meta property="og:site_name" content="Responsive Games"/>
+    <meta property="og:description" content="Full responsive game, multiplatform and cross browser support, Enjoy the game anywhere..."/>
+    <link href='http://fonts.googleapis.com/css?family=Roboto:400,100,300,500&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+    <!-- Bootstrap -->
+    
+    <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet" media="screen">
+			
+  </head>
+  <body>
+   <div id="welcomeMessage">Hi, guest</div>                                                                                                                                         
+
+     <!-- Load the Facebook JavaScript SDK -->                                                                                                                               
+     <div id="fb-root"></div>
+		<script src='http://connect.facebook.net/en_US/all.js'></script>
+    <!-- main -->
+			<div class="main">
+				<section class="container homeView" id="canvas-container">
+					
+					<div id="home-view" class="views" >
+						<div class="header">
+							<h1 class="startTitle">Kocka game<span class="mini-text">(beta)</span></h1>
+						</div>
+                                            <div id="HomeViewControllers">
+                                                
+                                                <img class="logo" src="images/logo.png" alt="HTML5 - kocka game - Breuer Dávid" />
+						<h3 class="author">Created by: David Breuer 2014. 0.9.3 (Beta)</h3>
+                                                
+                                            </div>
+						
+					</div>
+					<div id="main-view"  class="views">
+						<div class="header">
+							<h1 class="gameTitle">Kocka game</h1>
+						</div>
+						<div id="main-id"  class="game-view"></div>
+					</div>
+					<div id="settings-view"  class="views">
+						<div class="header">
+							<h1 class="gameTitle">Settings</h1>
+						</div>
+						<div class="settings-input">
+								<div class="unit">
+									<h3>High scores</h3>
+									<table class="table table-bordered" id="scoreTable">
+										<tbody>
+											<tr>
+												<th width="20"></th>
+												<th>Name</th>
+												<th width="100">Score</th>
+												<th width="20">Time</th>
+											</tr>
+										</tbody>
+									</table>
+								</div>
+						</div>
+					</div>
+					<div class="songID">
+						<h2 id="songartist"></h2>
+						<h4 id="songtitle"></h4>
+						<div id="graphPixels"></div>
+						<div id="elimatedTime"></div>
+					</div>
+				</section>
+			</div>
+
+			<!-- end of main -->
+			<script src="js/jquery.js"></script>
+			<script src="js/functions.js"></script>
+			<script src="js/block.js"></script>
+			<script>
+				Game.init();      
+			</script>
+  </body>
+</html>

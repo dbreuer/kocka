@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gamedata>
+    <configure>
+        <creationDate>1371496670</creationDate>
+        <updateDate>1371496670</updateDate>
+    </configure>
+    <highScore>
+        <item>
+            <id>0001</id>
+            <name>Béla</name>
+            <score>122</score>
+        </item>
+        <item>
+            <id>0002</id>
+            <name>Józsi</name>
+            <score>202</score>
+        </item>
+    </highScore>
+</gamedata>

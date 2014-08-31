@@ -1,0 +1,75 @@
+data: Friday 28th of June 2013 10:55:52 AM
+data: Friday 28th of June 2013 10:57:03 AM - 0
+data: Friday 28th of June 2013 10:57:30 AM -  | Vendég | 0 | 0 | 0 |  | 0
+data: Friday 28th of June 2013 10:58:12 AM -  | name->Vendég | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: Friday 28th of June 2013 10:59:30 AM -  | name->Vendég | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: Friday 28th of June 2013 10:59:53 AM -  | name->Vendég | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: 84.0.170.225 / Friday 22nd of November 2013 09:59:00 AM -  | name->Dávid | id->2 | fid->100004549324082 | score->0 | time-> | lastTime->0
+data: 84.0.170.225 / Friday 22nd of November 2013 10:06:03 AM -  | name->Dávid | id->3 | fid->100004549324082 | score->0 | time-> | lastTime->0
+data: 84.0.170.225 / Friday 22nd of November 2013 10:07:41 AM -  | name->Dávid | id->4 | fid->100004549324082 | score->0 | time-> | lastTime->0
+data: 84.0.170.225 / Friday 22nd of November 2013 10:07:52 AM -  | name->Dávid | id->4 | fid->100004549324082 | score->0 | time-> | lastTime->0
+data: 84.0.170.225 / Friday 22nd of November 2013 10:09:49 AM -  | name->Dávid | id->5 | fid->100004549324082 | score->0 | time-> | lastTime->0
+data: 84.0.170.225 / Friday 22nd of November 2013 10:11:22 AM -  | name->Dávid | id->5 | fid->100004549324082 | score->0 | time-> | lastTime->0
+data: 84.0.170.225 / Friday 22nd of November 2013 10:12:17 AM -  | name->Dávid | id->0 | fid->100004549324082 | score->0 | time-> | lastTime->0
+data: 84.0.170.225 / Friday 22nd of November 2013 10:13:57 AM -  | name->Dávid | id->2 | fid->100004549324082 | score->0 | time-> | lastTime->0
+data: 84.0.170.225 / Friday 22nd of November 2013 10:14:01 AM -  | name->Vendég | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: 84.0.170.225 / Friday 22nd of November 2013 10:14:41 AM -  | name->Dávid | id->5 | fid->100004549324082 | score->0 | time-> | lastTime->0
+data: 86.101.227.17 / Monday 6th of January 2014 09:17:30 AM -  | name->Dávid | id->0 | fid->100004549324082 | score->0 | time-> | lastTime->0
+data: 86.101.227.17 / Monday 13th of January 2014 10:26:34 AM -  | name->Dávid | id->3 | fid->100004549324082 | score->0 | time-> | lastTime->0
+data: 195.188.203.22 / Tuesday 14th of January 2014 10:52:38 AM -  | name->Vendég | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: 86.101.227.17 / Monday 20th of January 2014 12:32:40 PM -  | name->Vendég | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: 202.156.9.225 / Friday 24th of January 2014 01:02:09 PM -  | name->Vendég | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: 37.76.110.199 / Monday 27th of January 2014 06:48:25 PM -  | name->VendÃ©g | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: 86.59.185.48 / Friday 7th of February 2014 12:28:35 AM -  | name->Dávid | id->3 | fid->100004549324082 | score->0 | time-> | lastTime->0
+data: 86.59.185.48 / Friday 7th of February 2014 12:28:37 AM -  | name->Dávid | id->3 | fid->100004549324082 | score->0 | time-> | lastTime->0
+data: 86.59.185.48 / Friday 7th of February 2014 12:28:49 AM -  | name->Dávid | id->3 | fid->100004549324082 | score->0 | time-> | lastTime->0
+data: 86.59.185.48 / Friday 7th of February 2014 12:30:44 AM -  | name->Dávid | id->3 | fid->100004549324082 | score->0 | time-> | lastTime->0
+data: 86.59.185.48 / Friday 7th of February 2014 01:10:18 AM -  | name->Dávid | id->3 | fid->100004549324082 | score->0 | time-> | lastTime->0
+data: 176.77.134.62 / Monday 10th of February 2014 08:57:44 AM -  | name->VendÃ©g | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: 80.99.31.140 / Thursday 13th of February 2014 05:14:18 PM -  | name->VendÃ©g | id->3 | fid->0 | score->0 | time-> | lastTime->0
+data: 46.107.64.33 / Sunday 23rd of February 2014 11:06:56 AM -  | name->VendÃ©g | id->3 | fid->0 | score->0 | time-> | lastTime->0
+data: 77.89.175.42 / Friday 28th of February 2014 10:26:46 AM -  | name->VendÃ©g | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: 80.3.209.247 / Friday 28th of February 2014 10:34:53 AM -  | name->VendÃ©g | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: 80.3.209.247 / Saturday 1st of March 2014 01:03:40 PM -  | name->VendÃ©g | id->3 | fid->0 | score->0 | time-> | lastTime->0
+data: 87.224.111.114 / Monday 3rd of March 2014 12:10:10 PM -  | name->VendÃ©g | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: 217.41.6.200 / Monday 3rd of March 2014 12:38:45 PM -  | name->VendÃ©g | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: 89.248.21.17 / Friday 7th of March 2014 11:38:18 AM -  | name->VendÃ©g | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: 188.39.98.170 / Friday 7th of March 2014 01:48:55 PM -  | name->VendÃ©g | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: 80.3.209.247 / Friday 28th of March 2014 11:20:50 PM -  | name->VendÃ©g | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: 86.101.251.58 / Friday 25th of April 2014 03:48:03 PM -  | name->VendÃ©g | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: 37.157.33.130 / Wednesday 7th of May 2014 05:33:13 PM -  | name->VendÃ©g | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: 66.249.65.117 / Friday 20th of June 2014 12:52:51 PM -  | name->VendÃ©g | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: 66.249.64.34 / Sunday 6th of July 2014 12:43:12 PM -  | name->VendÃ©g | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: 66.249.69.17 / Thursday 21st of August 2014 02:35:01 PM -  | name->VendÃ©g | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: 92.25.24.109 / Saturday 23rd of August 2014 12:27:14 PM -  | name->VendÃ©g | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: 92.25.24.109 / Sunday 24th of August 2014 06:06:32 PM -  | name->VendÃ©g | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: 92.25.24.109 / Sunday 24th of August 2014 06:08:16 PM -  | name->VendÃ©g | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: 92.25.24.109 / Sunday 24th of August 2014 06:08:18 PM -  | name->VendÃ©g | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: 92.25.24.109 / Sunday 24th of August 2014 06:08:56 PM -  | name->VendÃ©g | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: 92.25.24.109 / Sunday 24th of August 2014 06:11:01 PM -  | name->VendÃ©g | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: 92.25.24.109 / Sunday 24th of August 2014 06:14:12 PM -  | name->VendÃ©g | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: 92.25.24.109 / Sunday 24th of August 2014 06:14:20 PM -  | name->VendÃ©g | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: 92.25.24.109 / Sunday 24th of August 2014 06:14:22 PM -  | name->VendÃ©g | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: 92.25.24.109 / Sunday 24th of August 2014 06:16:03 PM -  | name->VendÃ©g | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: 92.25.24.109 / Sunday 24th of August 2014 06:16:09 PM -  | name->VendÃ©g | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: 92.25.24.109 / Sunday 24th of August 2014 06:17:39 PM -  | name->VendÃ©g | id->2 | fid->0 | score->0 | time-> | lastTime->0
+data: 92.25.24.109 / Sunday 24th of August 2014 06:19:05 PM -  | name->VendÃ©g | id->3 | fid->0 | score->0 | time-> | lastTime->0
+data: 84.3.64.120 / Sunday 24th of August 2014 06:21:12 PM -  | name->VendÃ©g | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: 86.101.227.17 / Monday 25th of August 2014 11:08:16 AM -  | name->VendÃ©g | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: 109.74.48.1 / Tuesday 26th of August 2014 12:00:25 PM -  | name->VendÃ©g | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: 91.83.29.79 / Wednesday 27th of August 2014 07:25:09 PM -  | name->VendÃ©g | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: 91.82.179.215 / Thursday 28th of August 2014 07:49:43 AM -  | name->VendÃ©g | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: 92.24.101.224 / Saturday 30th of August 2014 12:16:32 PM -  | name->VendÃ©g | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: 92.24.101.224 / Saturday 30th of August 2014 12:17:12 PM -  | name->VendÃ©g | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: 92.24.101.224 / Saturday 30th of August 2014 12:42:48 PM -  | name->VendÃ©g | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: 92.24.101.224 / Saturday 30th of August 2014 12:42:52 PM -  | name->VendÃ©g | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: 92.24.101.224 / Saturday 30th of August 2014 12:45:34 PM -  | name->VendÃ©g | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: 92.24.101.224 / Saturday 30th of August 2014 12:49:09 PM -  | name->VendÃ©g | id->2 | fid->0 | score->0 | time-> | lastTime->0
+data: 92.24.101.224 / Saturday 30th of August 2014 12:49:13 PM -  | name->VendÃ©g | id->2 | fid->0 | score->0 | time-> | lastTime->0
+data: 92.24.101.224 / Saturday 30th of August 2014 12:49:20 PM -  | name->VendÃ©g | id->2 | fid->0 | score->0 | time-> | lastTime->0
+data: 92.24.101.224 / Saturday 30th of August 2014 12:55:34 PM -  | name->VendÃ©g | id->2 | fid->0 | score->0 | time-> | lastTime->0
+data: 92.24.101.224 / Sunday 31st of August 2014 03:07:40 PM -  | name->VendÃ©g | id->2 | fid->0 | score->0 | time-> | lastTime->0
+data: 92.24.101.224 / Sunday 31st of August 2014 03:08:18 PM -  | name->VendÃ©g | id->2 | fid->0 | score->0 | time-> | lastTime->0
+data: 92.24.101.224 / Sunday 31st of August 2014 03:31:58 PM -  | name->VendÃ©g | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: Sun Aug 31 2014 14:36:31 GMT+0100 (BST) Player: | name->VendÃ©g | id->0 | fid->0 | score->0 | time-> | lastTime->0
+data: Sun Aug 31 2014 14:43:19 GMT+0100 (BST) Player: | name->VendÃ©g | id->0 | fid->0 | score->0 | time-> | lastTime->0
